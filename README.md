@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazen45v&label=Profile%20views&color=0e75b6&style=flat" alt="aazen45v" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazen45v" alt="aazen45v" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aazen45v-ma&theme=matrix" alt="aazen45v" /></a> </p>
 
 - 🔭 I’m currently working on **improving my c++ skills**
 
