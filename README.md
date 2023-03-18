@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mohammad Aazen</h1>
 <h3 align="center">A passionate student aspiring to ba a Software engineer</h3>
 
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **Database management**
 
-- 👯 I’m looking to collaborate on **web-development project**
+- 👯 I’m looking to collaborate on [web-development project](https://github.com/Aazen45v/csb-ewvt4i)
 
 - 📫 How to reach me **mohdaazen@gmail.com**
 
