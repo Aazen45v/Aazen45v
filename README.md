@@ -34,7 +34,6 @@
 - 🎮 Playing video games.
 - 🎵 Listening to Music.
 
-<hr>
 
  <hr>
  <Br>
@@ -73,12 +72,6 @@
 
 <hr>
 
-
-<h2 align="center">My Portfolio Website</h2>
-<br>
-<br>
-
-<p align="center"><img src="ppic.jpg"> &nbsp;&nbsp;&nbsp;
 
 <br>
 <hr>
