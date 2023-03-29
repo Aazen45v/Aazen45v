@@ -17,7 +17,6 @@
 <br>
 
 <p align = "left">
-<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
 
 
 **Talking about Technical Stuffs:**
