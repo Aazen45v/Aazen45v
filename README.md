@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/file/d/18ucWXwSITOS8Wf8MMst2TJBDzZwYb8QM/view?usp=share_link"></p>
+<p align="center"><img src="https://drive.google.com/file/d/18ucWXwSITOS8Wf8MMst2TJBDzZwYb8QM/view"></p>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/Aazen45/Aazen45/master/Hi.gif" width="20px">, I am Mohammad Aazen </h1>
 
