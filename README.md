@@ -3,7 +3,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/Aazen45/Aazen45/master/Hi.gif" width="20px">, I am Mohammad Aazen </h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;CSE+Undergrad" />
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+stack+Developer;CSE+Undergrad" />
  <br>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 <br>
