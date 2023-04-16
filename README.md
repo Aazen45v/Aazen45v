@@ -134,10 +134,6 @@
       <li>Online C# Basics course (Hacker Rank) Feb 2022
         <a href="https://www.hackerrank.com/certificates/7a7b85e17177">https://www.hackerrank.com/certificates/7a7b85e17177</a></li>
     </ul>
-    
-    
-    
-    
     <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
