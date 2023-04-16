@@ -17,7 +17,7 @@
 <br>
 
 <p align = "left">
-
+   <h3>Education</h3>
    <ul>
       <li>VIT Bhopal University Bhopal, Madhya Pradesh</li>
       <li>BTech Expected - May 2025</li>
