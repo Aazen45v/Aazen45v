@@ -122,7 +122,23 @@
      <li>Aug 2022 – Jan 2023</li>
      <li>Writing different genres of content for the company on a daily basis.</li>
    </ul>
-
+<hr>
+        <h3>CERTIFICATIONS & TRAININGS</h3>
+    <ul>
+      <li>Token Service Technology Virtual Experience Program (Visa in collaboration with Forage) Feb 2023</li>
+      <li><a href="https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Visa/8ebZgyZyLA6h5gyqt_Visa_HHgftG7aASAyDHHuM_1675334596389_completion_certificate.pdf">https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Visa/8ebZgyZyLA6h5gyqt_Visa_HHgftG7aASAyDHHuM_1675334596389_completion_certificate.pdf</a></li>
+      <li>Web Development with HTML, CSS, JavaScript Essentials (IBM in collaboration with Coursera) Feb 2023
+        <a href="https://www.credly.com/badges/4f3f15c5-0ac2-449d-9340-892f95f6fc7d/linked_in_profile">https://www.credly.com/badges/4f3f15c5-0ac2-449d-9340-892f95f6fc7d/linked_in_profile</a></li>
+      <li>Applied Machine learning using python (University of Michigan in collaboration with Coursera) Dec 2022
+        <a href="https://coursera.org/share/92c4f1aa3481358047d3ab6c0ce0bb6e">https://coursera.org/share/92c4f1aa3481358047d3ab6c0ce0bb6e</a></li>
+      <li>Online C# Basics course (Hacker Rank) Feb 2022
+        <a href="https://www.hackerrank.com/certificates/7a7b85e17177">https://www.hackerrank.com/certificates/7a7b85e17177</a></li>
+    </ul>
+    
+    
+    
+    
+    <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
