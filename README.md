@@ -69,7 +69,7 @@
   
   
   
-      <h4>Parkinsons Disease Prediction Software</h4>
+ <h4>Parkinsons Disease Prediction Software</h4>
     <ul>
       <li>Developed an AI using Machine learning which could predict whether a person is suffering from Parkinson’s disease or
         not based on the voice frequencies (Composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson’s
@@ -107,13 +107,7 @@
     </ul>
 
   
-  
-  
-  
-  
-  
-  
- // 
+
 <hr>
 
 <Br>
