@@ -125,7 +125,7 @@
 <hr>
         <h3>CERTIFICATIONS & TRAININGS</h3>
     <ul>
-      <li>Token Service Technology Virtual Experience Program (Visa in collaboration with Forage) Feb 2023<a href="https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Visa/8ebZgyZyLA6h5gyqt_Visa_HHgftG7aASAyDHHuM_1675334596389_completion_certificate.pdf">https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Visa/8ebZgyZyLA6h5gyqt_Visa_HHgftG7aASAyDHHuM_1675334596389_completion_certificate.pdf</a></li>
+      <li>Token Service Technology Virtual Experience Program (Visa in collaboration with Forage) Feb 2023<br><a href="https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Visa/8ebZgyZyLA6h5gyqt_Visa_HHgftG7aASAyDHHuM_1675334596389_completion_certificate.pdf">https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/Visa/8ebZgyZyLA6h5gyqt_Visa_HHgftG7aASAyDHHuM_1675334596389_completion_certificate.pdf</a></li>
       <li>Web Development with HTML, CSS, JavaScript Essentials (IBM in collaboration with Coursera) Feb 2023
         <a href="https://www.credly.com/badges/4f3f15c5-0ac2-449d-9340-892f95f6fc7d/linked_in_profile">https://www.credly.com/badges/4f3f15c5-0ac2-449d-9340-892f95f6fc7d/linked_in_profile</a></li>
       <li>Applied Machine learning using python (University of Michigan in collaboration with Coursera) Dec 2022
@@ -146,11 +146,3 @@
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA" />
 
 -----
-
- 
-
-
-
-
-
-
