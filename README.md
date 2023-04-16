@@ -65,7 +65,55 @@
 </p>
 <Br>
 
+<h3>Academic Projects </h3>
+  
+  
+  
+      <h4>Parkinsons Disease Prediction Software</h4>
+    <ul>
+      <li>Developed an AI using Machine learning which could predict whether a person is suffering from Parkinson’s disease or
+        not based on the voice frequencies (Composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson’s
+        disease) and inputted image.</li>
+      <li>Created Prediction model base with an accuracy of 80%</li>
+      <li>Managed to integrate dataset, process the raw data, train the model using vector support machine, XG Boost and KNN
+        algorithm.</li>
+    </ul>
+    <h4>Custom QrCode Generator</h4>
+    <ul>
+      <li>Python was used to create a unique QR Code Generator.</li>
+      <li>I was able to create a script that takes user input in the terminal and generates the QrCode based on the user-inputted
+        string.</li>
+      <li>The script is written in such a manner that all previously created QrCode is saved as a history for user reference and
+        just the current generated QrCode is displayed as the output.</li>
+      <li>There is no need for navigating because the script instantly displays the picture as the result.</li>
+    </ul>
+    <h4>Pseudo Front-end Application (News React App)</h4>
+    <p>This website was made as a test project for the position of - Front End Engineer in Veridic Solutions HireSprint2023 .</p>
+    <p>Website link: <a href="https://lnkd.in/dWpiCKGK">https://lnkd.in/dWpiCKGK</a></p>
+    <ul>
+      <li>Axios is being used to fetch the post details from the API.</li>
+      <li>The API response includes the parameters [date, link, title, excerpt, image, creator].</li>
+      <li>The articles are listed as cards using a map function and displayed in a container.</li>
+      <li>The card design includes an image, title, excerpt, creator, and a read more link, which are visually interactive.</li>
+      <li>The read more link on each card redirects to the actual post link.</li>
+      <li>The code is written in HTML and CSS, which are responsive and adapt to different screen sizes.</li>
+    </ul>
+    <h4>E-Commerce Website</h4>
+    <ul>
+      <li>Developing a website for hiring maids online</li>
+      <li>Successfully implemented a verification process through OTP for maids and users.</li>
+      <li>Collaborated with developers and explored many new tools and ideas that can be implemented in the website for future
+        development.</li>
+    </ul>
 
+  
+  
+  
+  
+  
+  
+  
+ // 
 <hr>
 
 <Br>
