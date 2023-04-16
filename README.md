@@ -117,9 +117,8 @@
     <li>Conducted events and meetings with around 200 participants in each and created awareness of Coding and Pathways to
       their Dream Jobs, many workshops were also conducted.</li>
    </ul>
-   <h4>Content Writing</h4>
+   <h4>Aadox Content Writing</h4>
    <ul>
-     <li>Aadox</li>
      <li>Aug 2022 – Jan 2023</li>
      <li>Writing different genres of content for the company on a daily basis.</li>
    </ul>
