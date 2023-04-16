@@ -130,7 +130,7 @@
         <a href="https://www.credly.com/badges/4f3f15c5-0ac2-449d-9340-892f95f6fc7d/linked_in_profile">https://www.credly.com/badges/4f3f15c5-0ac2-449d-9340-892f95f6fc7d/linked_in_profile</a></li>
       <li>Applied Machine learning using python (University of Michigan in collaboration with Coursera) Dec 2022
         <a href="https://coursera.org/share/92c4f1aa3481358047d3ab6c0ce0bb6e">https://coursera.org/share/92c4f1aa3481358047d3ab6c0ce0bb6e</a></li>
-      <li>Online C# Basics course (Hacker Rank) Feb 2022
+      <li>Online C# Basics course (Hacker Rank) Feb 2022<br>
         <a href="https://www.hackerrank.com/certificates/7a7b85e17177">https://www.hackerrank.com/certificates/7a7b85e17177</a></li>
     </ul>
     <hr>
