@@ -64,10 +64,10 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
 </p>
 <Br>
-
+<hr>
+  
+  
 <h3>Academic Projects </h3>
-  
-  
   
  <h4>Parkinsons Disease Prediction Software</h4>
     <ul>
@@ -106,9 +106,22 @@
         development.</li>
     </ul>
 
-  
-
 <hr>
+  <Br>
+ 
+    <h3>Extracurricular</h3>
+    <ul>
+      <h4>Coding Blocks Club VIT Bhopal</h4>
+      <li>Sep 2022 - Present</li>
+      <li>Organized and conducted monthly meetings for Coding Enthusiasts</li>
+      <li>Conducted events and meetings with around 200 participants in each and created awareness of Coding and Pathways to
+        their Dream Jobs, many workshops were also conducted.</li>
+    </ul>
+    <h4>Content Writing</h4>
+    <ul>
+      <li>Aadox</li>
+      <li>Aug 2022 – Jan 2023</li>
+      <li>Writing different genres of content for the company on a daily basis.</li>
 
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
