@@ -18,6 +18,11 @@
 
 <p align = "left">
 
+   <ul>
+      <li>VIT Bhopal University Bhopal, Madhya Pradesh</li>
+      <li>BTech Expected - May 2025</li>
+      <li>Major in CSE</li>
+   </ul>
 
 **Talking about Technical Stuffs:**
 
